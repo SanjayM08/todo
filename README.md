@@ -1,4 +1,10 @@
-# Hey! &nbsp; <img align="center" src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="40px">https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SANJAY_M~%23+whoami;%E2%9C%93+Devops+Engineer;%E2%9C%93+Cloud+Engineer+;%E2%9C%93+Web+Developer+;%E2%9C%93+Full+Stack+Developer+;%E2%9C%93+Blogger+;%E2%9C%93+Youtuber+;%E2%9C%93+Automation+Developer+
+## &nbsp; <img src="https://c.tenor.com/oqyUP8ollp8AAAAi/amphibia-anne-boonchuy.gif" alt="Waving hand" width="50px">[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SANJAY_M~%23+whoami;%E2%9C%93+Devops+Engineer;%E2%9C%93+Cloud+Engineer+;%E2%9C%93+Web+Developer+;%E2%9C%93+FullStack+Developer+;%E2%9C%93+Blogger+;%E2%9C%93+Youtuber+;%E2%9C%93+Automation+Developer+)](https://git.io/typing-svg)
+
+
+
+###
+
+<h3 align="center">I Am passionate On Technology</h3>
 
 ### I'am SANJAY, a 19 year old web developer & Devops Engineer 
 
