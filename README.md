@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="center">I Am passionate On Technology</h3>
+### <h3 align="center">I'am SANJAY, a 19 year old Devops Engineer</h3>
 
 ###
 
-### I'am SANJAY, a 19 year old web developer & Devops Engineer 
+### I Am passionate On Technology
 
   <ul>
       <li>Software developer, Devops Engineer, & Full Stack Developer</li>
