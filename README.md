@@ -4,7 +4,7 @@
 
 ###
 
-### <h3 align="center">I'am SANJAY, a 19 year old Devops Engineer</h3>
+### <h3 align="center">I'am SANJAY, an 19 year old Devops Engineer</h3>
 
 ###
 
