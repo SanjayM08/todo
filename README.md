@@ -6,10 +6,12 @@
 
 <h3 align="center">I Am passionate On Technology</h3>
 
+###
+
 ### I'am SANJAY, a 19 year old web developer & Devops Engineer 
 
   <ul>
-      <li>Software developer & Devops Engineer</li>
+      <li>Software developer, Devops Engineer, & Full Stack Developer</li>
   </ul>
 
 ## Skills 
